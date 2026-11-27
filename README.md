@@ -7,7 +7,7 @@ We're a research and commercial proteomics lab catering to analyses in biopharma
 You can find all of our public code for proteomic analysis here, or as a fork from a user directory.  
   
 Do you need to further your research through differential protein analysis, biotherapeutic characterisation, histone epigenetics, timelapse protein analysis, or discovery proteomics? Get in touch!  
-If your research is in archaeology and heritage, we also offer species identification and sex determination from ancient human dental enamel, and some animals too.
+If your research is in forensics or archaeology and heritage, we also offer species identification, biological matrix and biofluid identification, and sex determination from human and animal dental enamel.
 
 ### <ins>Find us:</ins>
   Our Website: https://www.progentomics.ugent.be  
